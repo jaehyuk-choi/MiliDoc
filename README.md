@@ -7,6 +7,7 @@ https://milidoc.vercel.app/
 문서 처리 집중한, 문서보조 웹 Application
 
 User customized writing assistant that provides 1) feedback 2) word-translation(Eng-Ko).
+
 Top 10 Finalist of Republic of Korea, Ministry of National Defense.
 
 ## Members and Tech Stack
