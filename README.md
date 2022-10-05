@@ -8,13 +8,13 @@ https://milidoc.vercel.app/
 
 User customized writing assistant that provides 1) feedback 2) word-translation(Eng-Ko).
 
-Top 10 Finalist of Republic of Korea, Ministry of National Defense.
+Top 10🏅 Finalist of Republic of Korea, Ministry of National Defense.
 
 ## Members and Tech Stack
 
 ### Data EDA and Data Analysis
 
-상병 최재혁 (@jaehyuk-choi)
+상병 최재혁 (@jaehyuk-choi)👨‍💻
 - Python
 - KoNLPy (Python NLP Library)
 
